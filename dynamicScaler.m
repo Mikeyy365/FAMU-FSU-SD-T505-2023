@@ -1,7 +1,7 @@
 function [newModelParam] = dynamicScale(modelParam,a_length)
 % This function dynamically scales the parameters in the struct modelParam
 % according to the length scaling factor a_length
-
+% For michael to test
 % Model Parameter structs should contain the following:
 %   Length
 %   Mass
